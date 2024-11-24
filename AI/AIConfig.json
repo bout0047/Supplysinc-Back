@@ -1,0 +1,17 @@
+{
+  "ModelPaths": {
+    "DemandForecasting": "Models/DemandForecasting.mdl",
+    "ExpirationTracking": "Models/ExpirationTracking.mdl",
+    "Reordering": "Models/Reordering.mdl"
+  },
+  "Hyperparameters": {
+    "LearningRate": 0.01,
+    "Epochs": 100,
+    "BatchSize": 32
+  },
+  "Features": {
+    "EnableDemandForecasting": true,
+    "EnableExpirationTracking": true,
+    "EnableReorderingSuggestions": true
+  }
+}

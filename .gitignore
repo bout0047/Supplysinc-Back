@@ -1,0 +1,15 @@
+# Ignore Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]uild/
+
+# Ignore packages
+packages/
+*.nupkg

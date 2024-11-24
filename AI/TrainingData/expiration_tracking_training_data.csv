@@ -1,0 +1,4 @@
+ProductId,ProductName,ManufactureDate,ExpirationDate
+1,Milk,2023-01-01,2023-01-10
+2,Bread,2023-01-02,2023-01-08
+3,Cheese,2023-01-01,2023-01-15
